@@ -901,7 +901,7 @@ Also, the source code has to be patched from 8N1 to 7E1 mode for the hardware se
     >B
     =>sensor53 r
     >M 1
-    +1,12,o,0,9600,SML,1
+    +1,3,o,0,9600,SML,1
     1,1-0:1.7.255*255(@1,P_in,W,P_in,18
     1,1-0:21.7.255*255(@1,L1,W,L1,18
     1,1-0:41.7.255*255(@1,L2,W,L2,18
